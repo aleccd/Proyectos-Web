@@ -1,11 +1,14 @@
 # proyectos
-LINKS DE LOS PROYECTOS WEB: Htmls y Css
+LINKS DE LOS PROYECTOS WEB
+Htmls y Css: Resposives
 
-FREELANCER WEB
+FREELANCER WEB:
 freelancerproy.netlify.app
+![Uploading image.png…]()
 
-FRONTEND WEB
+
+FRONTEND WEB:
 front-stor.netlify.app
 
-BLOG CAFE WEB
+BLOG CAFE WEB:
 blogcafeproyec.netlify.app
