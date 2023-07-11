@@ -1,6 +1,5 @@
-# proyectos
-LINKS DE LOS PROYECTOS WEB
-Htmls y Css: Resposives
+Proyectos web a base de:
+HTML y CSS, adaptables a la mayoria de dispositivos.
 
 FREELANCER WEB:
 freelancerproy.netlify.app
