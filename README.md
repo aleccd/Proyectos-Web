@@ -4,8 +4,6 @@ Htmls y Css: Resposives
 
 FREELANCER WEB:
 freelancerproy.netlify.app
-![Uploading image.png…]()
-
 
 FRONTEND WEB:
 front-stor.netlify.app
