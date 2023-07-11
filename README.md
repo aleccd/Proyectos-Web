@@ -2,11 +2,11 @@ Proyectos web a base de:
 
 HTML y CSS, adaptables a la mayoria de dispositivos.
 
-FREELANCER WEB:
+Freelancer Web:
 freelancerproy.netlify.app
 
-FRONTEND WEB:
+FrontEnd Web:
 front-stor.netlify.app
 
-BLOG CAFE WEB:
+BlogCafe Web:
 blogcafeproyec.netlify.app
