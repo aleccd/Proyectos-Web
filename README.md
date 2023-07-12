@@ -7,3 +7,5 @@ Freelancer Web: https://freelancerproy.netlify.app
 FrontEnd Web Store: https://front-stor.netlify.app
 
 BlogCafe Web: https://blogcafeproyec.netlify.app
+
+BlogCafe Web (Validacion de formulario JS) : https://blogcafejavascript.netlify.app/
