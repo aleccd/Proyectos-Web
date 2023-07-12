@@ -1,5 +1,5 @@
 # Proyectos Web Basicos
-Estos fueron creados a base de HTML y CSS.
+Estos proyectos fueron creados a base de HTML, CSS y JS.
 
 # Links de las paginas web:
 Freelancer Web: https://freelancerproy.netlify.app
